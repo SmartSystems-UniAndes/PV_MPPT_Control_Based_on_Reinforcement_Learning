@@ -6,7 +6,7 @@ This repository contains a study case of the work developed by Phan, B et al. in
 
 ## Work Environment
 
-To use this repository it is essential to use the 2020a version of MATLAB.
+To use this repository it is essential to use the 2020a version (or upper) of MATLAB.
 
 ## How to use
 
