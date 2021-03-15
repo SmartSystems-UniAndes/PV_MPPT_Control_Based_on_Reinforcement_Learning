@@ -2,8 +2,7 @@
 
 ## About
 
-This repository contains the work developed by Gabriel Narvaez et al. in *Machine learning for site-adaptation and solar
-radiation forecasting* [1].
+This repository contains an study case of the work developed by Phan, B et al. in *A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition* [1].
 
 ## Work Environment
 
