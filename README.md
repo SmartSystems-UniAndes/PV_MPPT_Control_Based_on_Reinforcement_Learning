@@ -10,7 +10,7 @@ To use this repository it is essential to use the 2020a version of MATLAB.
 
 ## How to use
 
-
+To run the complete study case, open the [EnvironmentMPPT.mlx file](EnvironmentMPPT.mlx) which is a MATLAB notebook, where you can explore the training and test process of the case. Also, if you want to observe the system architecture and the learning curves, open the [rlMpptModel.slx Simulink file](rlMpptModel.slx).
 
 ## Citing Work
 
