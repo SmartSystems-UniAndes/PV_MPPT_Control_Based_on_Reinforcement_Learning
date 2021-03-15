@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains a study case of the work developed by Phan, B et al. in *A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition* [1].
+This repository contains a study case of the work developed by Phan, B et al. in *A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition* [1]. Here is shown a Deep Reinforcement Learning approach for MPPT (maximum power point tracking) control.
 
 ## Work Environment
 
