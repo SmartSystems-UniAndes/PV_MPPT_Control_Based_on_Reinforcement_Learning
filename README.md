@@ -8,11 +8,9 @@ This repository contains a study case of the work developed by Phan, B et al. in
 
 To use this repository it is essential to use the 2020a version (or upper) of MATLAB.
 
-## How to use
+## How it works?
 
-To run the complete study case, open the [EnvironmentMPPT.mlx file](EnvironmentMPPT.mlx) which is a MATLAB notebook, then run the **Set up the Environment**, this will open a window with the training process log.
-
-If you want to observe the system architecture and the learning curves, open the [rlMpptModel.slx Simulink file](rlMpptModel.slx).
+If you want to use the pretrained model and observe the final result: open the [*EnvironmentMPPT.mlx*](EnvironmentMPPT.mlx) MATLAB notebook file, then run **Set up the Environment** cell, then, run the first cell (*RL parameters*) of the **Create Networks**. A Simulink file with the PV architecture will be open, there you can change the parameters *lr1*, *lr2*, *lr3* and *T1* as you wish, then run the simulation and observe its behavior. Now, if you want to re-train the model, run all the cells in *EnvornmentMPPT.mlx*, which will open a window with the train process.
 
 ## Citing Work
 
