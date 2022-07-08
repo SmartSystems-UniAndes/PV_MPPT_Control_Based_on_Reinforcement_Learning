@@ -54,4 +54,4 @@ If you want to use the pretrained model and observe the final result: open the [
 ## Licenses
 
 ### Software
-The software is licensed under an [MIT License](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](/LISENSE-MIT.txt).
+The software is licensed under an [MIT License](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](../blob/main/LICENSE-MIT.txt).
