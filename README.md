@@ -50,3 +50,8 @@ If you want to use the pretrained model and observe the final result: open the [
 [1] Jorge Felipe Gaviria, Gabriel Narváez, Camilo Guillen, Luis Felipe Giraldo, and Michael Bressan. Machine learning in photovoltaic systems: A review. ISSN 0960-1481. doi: 10.1016/j.renene.2022.06.105. URL https://www.sciencedirect.com/science/article/pii/S0960148122009454?via%3Dihub
 
 [2] Phan, B. C., Lai, Y. C., & Lin, C. E. (2020). A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition. Sensors, 20(11), 3039.
+
+## Licenses
+
+### Software
+The software is licensed under an [MIT License](https://www.google.com](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](/LISENSE-MIT.txt).
